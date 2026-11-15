@@ -1,0 +1,6 @@
+# Format: RideID,StartingLocation,Destination,Date,DepartureTime,AvailableSeats,CostPerPerson,DriverName,DriverID,DriverEmail,DriverPassword,VehicleType,VehicleNumber,VehicleCapacity
+RIDE-101,CGC University Jhanjeri,Sector 17 Chandigarh,2026-12-06,08:30 AM,3,40.0,Demo Student,CGC001,demo1@cgcuniversity.in,demo123,Car,PB-65-AB-1234,4
+RIDE-102,CGC University Jhanjeri,Kharar Bus Stand,2026-12-07,09:00 AM,1,20.0,Demo Driver,CGC002,demo2@cgcuniversity.in,demo123,Bike,PB-65-CD-5678,2
+RIDE-103,Landran,Mohali Phase 7,2026-12-08,10:15 AM,2,25.0,Sample User,CGC003,demo3@cgcuniversity.in,demo123,Car,PB-65-EF-9012,4
+RIDE-104,CGC University Jhanjeri,ISBT Sector 43 Chandigarh,2026-12-09,07:45 AM,3,45.0,Demo Student,CGC001,demo1@cgcuniversity.in,demo123,Car,PB-65-AB-1234,4
+RIDE-105,CGC University, Jhanjeri,Sector 17, Chandigarh,2026-10-15,08:30 AM,6,2000.0,akshit,87,akshit@cgcuniversity.in,,Car,PB-10-7434,7
