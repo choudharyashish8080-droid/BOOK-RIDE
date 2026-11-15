@@ -1,0 +1,7 @@
+# Format: Name,StudentID,Email,Password
+# Fictional demo accounts. Replace with your own test accounts before demonstrating authentication.
+Demo Student,CGC001,demo1@cgcuniversity.in,demo123
+Demo Driver,CGC002,demo2@cgcuniversity.in,demo123
+Sample User,CGC003,demo3@cgcuniversity.in,demo123
+aryan,86,aryan@cgcuniversity.in,aryan1
+akshit,87,akshit@cgcuniversity.in,akshit1
